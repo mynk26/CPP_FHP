@@ -105,7 +105,7 @@ n.close(); n.close(); n.close();
 f.clear();
 f.close(); f.close(); f.close();
 remove((char*)&"account.dat");
-rename((char*)&"account.dat",(char*)&"newfile.dat");
+rename((char*)&"newfile.dat",(char*)&"account.dat");
 f.open("account.dat",ios::out|ios::in|ios::ate);
 if(cnt==0){
     cout<<"No such account found";
