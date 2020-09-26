@@ -1,2 +1,2 @@
 # CPP_FHP
-a c++ project with file handling concept , a simple and short project which mainly helps in understanding how the file handling work's in c++
+A C++ Project with File Handling concept , a simple and short project which mainly helps in understanding how the file handling work's in c++
